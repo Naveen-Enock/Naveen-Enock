@@ -48,6 +48,6 @@ I enjoy working close to the metal — from C++ systems and embedded hardware to
 
 
 ---
-Credit to swericcodes for the idea
+Credit to swericodes for the idea
 
 ⭐️ *Always excited to collaborate on robotics, AI, or systems projects.*
