@@ -46,6 +46,7 @@ I enjoy working close to the metal — from C++ systems and embedded hardware to
 ![Altium](https://img.shields.io/badge/Altium-000000?style=for-the-badge)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge)
 
+Credit to swericcodes for the idea
 ---
 
 ⭐️ *Always excited to collaborate on robotics, AI, or systems projects.*
