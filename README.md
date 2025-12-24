@@ -1,53 +1,66 @@
-<h1 align="center">Hi 👋 I'm Naveen Enock</h1>
+<h1 align="left">Hi 👋 I'm Naveen Enock</h1>
 
-# 💫 About Me
-I’m a Computer & Electrical Engineering student at **Carnegie Mellon University**, with an additional major in **Artificial Intelligence**, passionate about building intelligent systems that operate at the intersection of **AI, robotics, and software engineering**.
+###
 
-I enjoy working close to the metal — from C++ systems and embedded hardware to large-scale ML pipelines and full-stack products.
+<p align="left">I’m a Computer & Electrical Engineering student at Carnegie Mellon University, with an additional major in Artificial Intelligence. I'm passionate about building intelligent systems that operate at the intersection of AI, robotics, and software engineering. I enjoy working close to the metal — from C++ systems and embedded hardware to large-scale ML pipelines and full-stack products.</p>
 
----
+###
 
-## 🚀 I'm Currently Working on..
+<h2 align="left">About me</h2>
 
-- 🤖 Researching **robotic reasoning, imitation learning, and VLA models**  
-- 💻 Designing **full-stack platforms**
-- ⚙️ Working across **robotics, ML, and systems** — from PCB design to deployment
+###
 
----
+<p align="left">
+I’m currently researching robotic reasoning, imitation learning, and VLA models while designing full-stack platforms. Whether it's PCB design or cloud deployment, I love working across the entire stack. <br><br>
+Always excited to collaborate on robotics, AI, or systems projects!
+</p>
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-enock)
+###
 
----
+<h2 align="left">I code with</h2>
 
-## 💻 Tech Stack
+###
 
-### Languages  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![x86-64](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
+</div>
 
-### Frameworks & Libraries  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask)
+<br/>
 
-### Tools & Platforms  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=google-cloud)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Altium](https://img.shields.io/badge/Altium-000000?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge)
+<h2 align="left">Want to reach out?</h2>
 
+###
 
----
-Credit to swericodes for the idea
-
-⭐️ *Always excited to collaborate on robotics, AI, or systems projects.*
+<div align="left">
+  <a href="https://linkedin.com/in/naveen-enock" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
